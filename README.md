@@ -1,3 +1,3 @@
 # Scientific-Calculator
 
-[Read article about this]([https://link-url-here.org](https://medium.com/@rd893918/scientific-calculator-using-java-b33dc03aeb16))
+[Read article about this](https://medium.com/@rd893918/scientific-calculator-using-java-b33dc03aeb16)
